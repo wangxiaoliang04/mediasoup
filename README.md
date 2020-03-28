@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mediasoup v3
 
 [![][mediasoup-banner]][mediasoup-website]
@@ -100,3 +101,6 @@ You can support mediasoup by becoming a [sponsor][donate] or making a [donation]
 [mediasoup-architecture]: /art/mediasoup-v3-architecture-01.svg
 [mediasoup-demo-screenshot]: /art/mediasoup-v3.png
 [mediasoup-demo]: https://v3demo.mediasoup.org
+=======
+# mediasoup
+>>>>>>> 1be3d37df5c6e583230845a1b98fd273ad00ac73
